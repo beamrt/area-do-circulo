@@ -6,6 +6,6 @@
           
 </div>
 
-<p>Utilizei a fórmula para calcular a área de uma circunferência: area = π . raio2</p>
+<p>Utilizei essa fórmula para calcular a área de uma circunferência: area = π . raio2</p>
 <p>Considerando para este problema que π = 3.14159 </p>
-<p>Utilizei também, a biblioteca "#include <iomanip> para manipulação de saída, "fixed" que define o formato de saída como ponto flutuante fixo, e também, setprecision(4) para definir a precisão para 4 casas decimais (os números serão exibidos com 4 casas decimais após o ponto decimal). "</p>
+<p>Utilizei também, a biblioteca "#include <iomanip>" para manipulação de saída, "fixed" que define o formato de saída como ponto flutuante fixo, e também, setprecision(4) para definir a precisão para 4 casas decimais (os números serão exibidos com 4 casas decimais após o ponto decimal). "</p>
